@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="BlingFlashView">
+        <attr name="bfv_coverImg" format="reference"/>
+        <attr name="bfv_animTime" format="integer"/>
+        <attr name="bfv_anim_mode" format="enum">
+            <enum name="enter" value="1"/>
+            <enum name="exit" value="2"/>
+        </attr>
+    </declare-styleable>
+
+</resources>
